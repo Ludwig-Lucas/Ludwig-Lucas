@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Ludwig-Lucas/Ludwig-Lucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hello! My name is Lucas, this is a short introduction about me:
 
 - 🔭 I’m currently working on physics education.
 - 🌱 I’m currently learning about computer.
@@ -11,6 +8,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with learning about computer.
 - 💬 Ask me about general physics.
 - 📫 How to reach me: Lucie_1996@outlook.com
-- 😄 Pronouns: he/she of your choice
-- ⚡ Fun fact: nothing particularly interesting, at least not that I've discovered.
--->
+- 😄 Pronouns: he/she (you can choose one to call me!)
+- ⚡ Fun fact: nothing particularly interesting.
+
